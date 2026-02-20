@@ -1,9 +1,9 @@
 # SLM_CodeBot
-🎭 Shinchan Fun SLM AI
+# Shinchan Fun SLM AI
 
 Offline playful chatbot using Gemma SLM via Ollama with Streamlit UI.
 
-Overview
+# Overview
 
 Shinchan Fun SLM AI is a local chatbot that mimics Shinchan’s playful, cheeky personality. Features include:
 
@@ -17,7 +17,7 @@ Colorful chat bubbles and stylish dark-gradient UI
 
 Stable, single-file deployment
 
-Features
+# Features
 
 Personality Chat – Shinchan-style witty replies
 
@@ -29,7 +29,7 @@ Structured SLM Output – Temperature-controlled Gemma responses
 
 Lightweight & Portable – Entire project in one Python file
 
-Installation & Run
+# Installation & Run
 pip install streamlit ollama
 streamlit run app.py
 Usage
@@ -42,7 +42,7 @@ Clear chat to reset session.
 
 Earn XP per message and level up.
 
-Learning Outcomes
+# Learning Outcomes
 
 Local SLM deployment & prompt engineering
 
@@ -52,7 +52,7 @@ Gamification & session management
 
 Fun, engaging UX design
 
-Future Enhancements
+# Future Enhancements
 
 Mini-games, memes, or image generation
 
